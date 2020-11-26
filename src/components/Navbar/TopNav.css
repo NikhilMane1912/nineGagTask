@@ -1,0 +1,15 @@
+body {
+  font: 14px -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial,
+    Helvetica, Geneva, sans-serif;
+  background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: none;
+}
+
+#top-nav {
+  background-color: #000;
+  width: 100%;
+  z-index: 13;
+  position: fixed;
+  padding: 0 16px;
+}

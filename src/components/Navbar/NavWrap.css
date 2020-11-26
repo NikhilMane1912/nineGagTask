@@ -1,0 +1,39 @@
+#top-nav a.logo {
+  display: block;
+  width: 72px;
+  height: 48px;
+  background: url(./img/sprite-logo.png) 50% no-repeat;
+  background-size: 72px 48px;
+  text-indent: -9999px;
+  overflow: hidden;
+  float: left;
+  margin-left: -12px;
+}
+
+#top-nav,
+.section-sidebar .stealthy-scroll-container,
+a.back-to-top {
+  will-change: transform;
+}
+
+.nav-wrap {
+  display: inline-block;
+  max-width: 1196px;
+  padding: 0 16px;
+  margin: 0 auto;
+}
+
+.nav-menu .secondary a {
+  display: inline-block;
+  color: #fff;
+  position: relative;
+  line-height: 48px;
+  font-size: 14px;
+  padding: 0 12px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.nav-menu .secondary a:hover {
+  color: gray;
+}

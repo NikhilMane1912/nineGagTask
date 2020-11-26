@@ -1,0 +1,6 @@
+#container {
+  overflow: hidden;
+  margin: 0 auto;
+  clear: both;
+  padding-top: 48px;
+}

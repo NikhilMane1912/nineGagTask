@@ -1,0 +1,31 @@
+.page {
+  width: 972px;
+  padding-top: 24px;
+  margin: 0 0 32px 224px;
+}
+
+.topBannerAd-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.topBannerAd {
+  width: 970px;
+  height: 250px;
+  background-color: #f4f4f4;
+  transition: height 0.3s ease-out 0s;
+}
+
+.main-wrap {
+  float: left;
+  width: 640px;
+}
+
+.featured-tag {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
